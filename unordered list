@@ -1,0 +1,52 @@
+<html>
+		<head>
+			<title>list tags</title>
+		</head>
+		<body>
+		<ul type="disc">
+			<li>Bca</li>
+			    <ul type="circle">
+					<li>SEM 1</li>
+						<ul type="square">
+							<li>CF</li>
+							<li>HTML</li>
+							<li>C LANG</li>
+							<li>MATHS</li>
+						</ul>
+				</ul>
+			<ul type="circle">
+				<li>Sem 2</li>
+					<ul type="square">
+						<li>operatig systems and fundamentals</li>
+						<li>Advanced Mathematics</li>
+						<li>Organisational Behaviour</li>
+						<li>advanced C Programming Lab</li>
+						<li>C language advanced concepts</li>
+					</ul>
+			</ul>
+		</ul>
+		<ul type="disc">
+			<li>B.SC IT</li>
+				<ul type="Circle">
+					<li>Sem 1</li>
+						<ul type="square">
+							<li>CF</li>
+							<li>HTML</li>
+							<li>C LANG</li>
+							<li>MATHS</li>
+						</ul>
+				</ul>
+				<ul type="circle">
+					<li>Sem 2</li>
+						<ul type="square">
+							<li>imerative programming</li>
+							<li>Digital electronics</li>
+							<li>Operating systems</li>
+							<li>Discrete Mathematics</li>
+							<li>Ability enhancement skill</li>
+							<li>Communication skill</li>
+						</ul>
+				</ul>
+		</ul>
+		</body>
+</html>
